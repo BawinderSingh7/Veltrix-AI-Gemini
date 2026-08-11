@@ -175,5 +175,5 @@ def page_tasks():
     st.divider()
 
     st.caption(
-        "Powered by OpenAI • ElevenLabs • MongoDB • Streamlit"
-    )
+        "Powered by Gemini • ElevenLabs • MongoDB • Streamlit"
+)
